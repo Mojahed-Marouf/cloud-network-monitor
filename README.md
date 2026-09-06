@@ -1,5 +1,5 @@
 # Cloud Network Monitor
-
+![Architecture](./Cloud%20Network%20Monitor%20Architecture.png)
 A serverless AWS application that monitors host availability and HTTP response time.
 
 ## Architecture
